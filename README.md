@@ -217,7 +217,7 @@ uv run pytest
 ![alt text](/Скрины/auth_me.png)
 
 5. Локальные тесты auth
-![alt text](/Скрины/'Локальные%20тесты%20auth.png')
+![alt text](/Скрины/Локальные%20тесты%20auth.png)
 
 6. Локальные тесты bot
 ![alt text](/Скрины/Локальные%20тесты%20bot.png)
