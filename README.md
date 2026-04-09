@@ -15,7 +15,6 @@ Redis используется сразу в двух ролях: как result 
 ├── auth_service
 ├── bot_service
 ├── docker-compose.yml
-├── docs/screenshots
 └── README.md
 ```
 
