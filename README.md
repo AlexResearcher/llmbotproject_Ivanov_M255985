@@ -232,4 +232,4 @@ uv run pytest
 ![alt text](/Скрины/Консьюмер.png)
 
 9. Celery в терминале
-![alt text](/Скрины/Celery в терминале.png)
+![alt text](/Скрины/Celery%20в%20терминале.png)
